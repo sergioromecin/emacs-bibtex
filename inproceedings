@@ -1,0 +1,23 @@
+#contributor : Sergio F. Romecin Garcia (sromecin (at) gmail (dot) com)
+#name : inproceedings
+# --
+@InProceedings{${1:author}-${2:year},
+  author = {$1},
+  title = {$3},
+  OPTcrossref = {},
+  OPTkey = {},
+  OPTbooktitle = {},
+  OPTpages = {},
+  OPTyear = {$2},
+  OPTeditor = {},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTseries = {},
+  OPTaddress = {},
+  OPTdoi = {},
+  OPTmonth = {},
+  OPTorganization = {},
+  OPTpublisher = {},
+  OPTnote = {},
+  OPTannote = {},
+}

@@ -1,0 +1,12 @@
+#contributor : Sergio F. Romecin Garcia (sromecin (at) gmail (dot) com)
+#name : unpublished 
+# --
+@Unpublished{${1:author}-${2:year},
+  author = {$1},
+  title = {$3},
+  note = {$4},
+  OPTkey = {},
+  OPTmonth = {},
+  OPTyear = {$2},
+  OPTannote = {},
+}

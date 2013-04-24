@@ -1,0 +1,14 @@
+#contributor : Sergio F. Romecin Garcia (sromecin (at) gmail (dot) com)
+#name : misc
+# --
+@Misc{${1:author}-${2:year},
+  OPTkey = {},
+  OPTauthor = {$1},
+  OPTtitle = {},
+  OPThowpublished = {},
+  OPTmonth = {},
+  OPTURL = {},
+  OPTyear = {$2},
+  OPTnote = {},
+  OPTannote = {}
+}

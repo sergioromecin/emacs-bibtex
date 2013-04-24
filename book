@@ -1,0 +1,20 @@
+#contributor : Sergio F. Romecin Garcia (sromecin (at) gmail (dot) com)
+#name : book
+# --
+@Book{${1:author}-${2:year},
+  ALTauthor = {$1},
+  ALTeditor = {},
+  title = {$3},
+  publisher = {$4},
+  year = {$2},
+  OPTkey = {},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTseries = {},
+  OPTaddress = {},
+  OPTedition = {},
+  OPTdoi = {},
+  OPTmonth = {},
+  OPTnote = {},
+  OPTannote = {},
+}

@@ -1,0 +1,16 @@
+#contributor : Sergio F. Romecin Garcia (sromecin (at) gmail (dot) com)
+#name : techreport 
+# --
+@TechReport{${1:author}-${2:year},
+  author = {$1},
+  title = {$3},
+  institution = {$4},
+  year = {$2},
+  OPTkey = {},
+  OPTtype = {},
+  OPTnumber = {},
+  OPTaddress = {},
+  OPTmonth = {},
+  OPTnote = {},
+  OPTannote = {},
+}

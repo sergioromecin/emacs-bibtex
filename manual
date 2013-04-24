@@ -1,0 +1,15 @@
+#contributor : Sergio F. Romecin Garcia (sromecin (at) gmail (dot) com)
+#name : manual
+#--
+@Manual{${1:author}-${2:year},
+  title = {$1},
+  OPTkey = {},
+  OPTauthor = {},
+  OPTorganization = {},
+  OPTaddress = {},
+  OPTedition = {},
+  OPTmonth = {},
+  OPTyear = {$2},
+  OPTnote = {},
+  OPTannote = {},
+}

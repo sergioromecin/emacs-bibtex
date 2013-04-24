@@ -1,0 +1,25 @@
+#contributor : Sergio F. Romecin Garcia (sromecin (at) gmail (dot) com)
+#name : incollection
+# --
+@InCollection{${1:author}-${2:year},
+  author = {$1},
+  title = {$3},
+  booktitle = {$4},
+  OPTcrossref = {},
+  OPTkey = {},
+  OPTpages = {},
+  OPTpublisher = {},
+  OPTyear = {$2},
+  OPTeditor = {},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTseries = {},
+  OPTtype = {},
+  OPTchapter = {},
+  OPTaddress = {},
+  OPTedition = {},
+  OPTdoi = {},
+  OPTmonth = {},
+  OPTnote = {},
+  OPTannote = {},
+}

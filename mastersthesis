@@ -1,0 +1,16 @@
+#contributor : Sergio F. Romecin Garcia (sromecin (at) gmail (dot) com)
+#name : mastersthesis
+# --
+@MastersThesis{${1:author}-${2:year},
+  author = {$1},
+  title = {$3},
+  school = {$4},
+  year = {$2},
+  OPTkey = {},
+  OPTtype = {},
+  OPTaddress = {},
+  OPTdoi = {},
+  OPTmonth = {},
+  OPTnote = {},
+  OPTannote = {},
+}

@@ -1,0 +1,15 @@
+#contributor : Sergio F. Romecin Garcia (sromecin (at) gmail (dot) com)
+#name : booklet
+# --
+@Booklet{${1:author}-${2:year},
+  title = {$3},
+  OPTkey = {},
+  OPTauthor = {$1},
+  OPThowpublished = {},
+  OPTaddress = {},
+  OPTdoi = {},
+  OPTmonth = {},
+  OPTyear = {$2},
+  OPTnote = {},
+  OPTannote = {},
+}
