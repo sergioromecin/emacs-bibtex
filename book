@@ -2,8 +2,8 @@
 #name : book
 # --
 @Book{${1:author}-${2:year},
-  ALTauthor = {$1},
-  ALTeditor = {},
+  author = {$1},
+  editor = {},
   title = {$3},
   publisher = {$4},
   year = {$2},
